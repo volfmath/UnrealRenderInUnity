@@ -1,0 +1,8 @@
+#ifndef MOBILECORE_INCLUDE
+#define MOBILECORE_INCLUDE
+
+
+
+
+
+#endif //MOBILECORE_INCLUDE
