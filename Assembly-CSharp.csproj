@@ -65,7 +65,7 @@
     <Compile Include="Assets\Scripts\Render\RenderPipeline.cs" />
     <Compile Include="Assets\Scripts\Render\SceneData.cs" />
     <None Include="Assets\Resources\BRDF.cginc" />
-    <None Include="Assets\Resources\MobileBassPassShader.cginc" />
+    <None Include="Assets\Resources\MobileBasePassShader.cginc" />
     <None Include="Assets\Resources\MobileCore.cginc" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/UnrealRenderInUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
