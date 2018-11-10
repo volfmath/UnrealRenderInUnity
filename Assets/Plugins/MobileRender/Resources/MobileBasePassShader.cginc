@@ -1,5 +1,5 @@
-#ifndef MOBILEBASEPASS_INCLUDE
-#define MOBILEBASEPASS_INCLUDE
+#ifndef __MOBILEBASEPASS_INCLUDE__
+#define __MOBILEBASEPASS_INCLUDE__
 #include "UnityCG.cginc"
 #include "Common.cginc"
 
@@ -85,4 +85,4 @@ half4 MainPS(FVertexFactoryInterpolantsVSTOPS Input) : SV_Target
 #endif
 }
 
-#endif //MOBILECORE_INCLUDE
+#endif //__MOBILEBASEPASS_INCLUDE__
